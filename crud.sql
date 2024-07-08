@@ -33,6 +33,4 @@ UPDATE categories SET name = 'Literature' WHERE category_id = 2;
 DELETE FROM users WHERE id = 2;
 DELETE FROM categories WHERE category_id = 3;
 
-SELECT * FROM users;
-SELECT * FROM categories;
 
